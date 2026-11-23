@@ -473,3 +473,8 @@ button[type="submit"] {
 .suggest-carousel__more { color: var(--muted); }
 /* Interview questions are bilingual: the English question sits under the native one, smaller and muted. */
 .interview-question__en { display: block; color: var(--muted); font-size: 0.9rem; font-weight: 400; margin-top: 0.35rem; }
+/* Return-home button: every lang page links back to the English original, top and bottom. */
+.return-home-bar { padding: 0.75rem 1rem 0; }
+.return-home { display: inline-block; padding: 0.6rem 1.1rem; border: 2px solid var(--link); border-radius: 0.75rem; font-weight: 600; text-decoration: none; color: var(--text); }
+.return-home:hover, .return-home:focus-visible { background: var(--field-bg); }
+.site-footer .return-home { margin-bottom: 0.5rem; }
