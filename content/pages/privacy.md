@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+Trang này không dành cho người dưới 18 tuổi. Trang nói về đức tin nơi Chúa Giê-xu, và đó là nội dung tôn giáo, nên được viết cho người lớn. Nếu bạn dưới 18 tuổi, xin đừng chia sẻ thông tin cá nhân ở đây, và đừng viết cho Jonathan.
+
+Ở Tây Ban Nha, luật quy định trẻ em dưới 14 tuổi cần có cha mẹ hoặc người giám hộ đồng ý trước khi chia sẻ dữ liệu cá nhân trên mạng. Quy định của trang này còn nghiêm ngặt hơn: dưới 18 tuổi, trang này không dành cho bạn.
 
 ## Changes
 
