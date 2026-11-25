@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Quyền riêng tư
 
-Trang này do Jonathan McCallum vận hành, anh sống ở Getaria, Tây Ban Nha. Đây là một trang cá nhân nhỏ: các bài viết, và một khung chat trả lời dựa trên những bài viết đó. Không có tài khoản nào cần tạo ở đây, không theo dõi, không quảng cáo, và không có gì để bán. Trang tuân theo luật riêng tư của châu Âu (GDPR) cho mọi khách truy cập, dù bạn ở đâu trên thế giới.
+Trang này do Jonathan McCallum vận hành, anh sống ở Xứ Basque. Đây là một trang cá nhân nhỏ: các bài viết, và một khung chat trả lời dựa trên những bài viết đó. Không có tài khoản nào cần tạo ở đây, không theo dõi, không quảng cáo, và không có gì để bán. Trang tuân theo luật riêng tư của châu Âu (GDPR) cho mọi khách truy cập, dù bạn ở đâu trên thế giới.
 
 Nếu bạn cần hỏi về bất cứ điều gì trên trang này, hoặc về dữ liệu cá nhân của bạn, hãy viết cho Jonathan tại <a href="#" data-contact-email data-contact-email-text>Gửi email cho tôi</a>. Bạn cũng có thể nhắn tin cho anh ấy trên [Instagram](https://www.instagram.com/jonamccallum) hoặc [Threads](https://www.threads.com/@jonamccallum).
 
